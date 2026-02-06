@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "人生",
+  "base_artist": "アンメルツP",
+  "createdAt": "2026-02-06T06:55:36.570524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生,起起落落落落落?",
+      "artist": "Firdhaus",
+      "has_synced": true,
+      "path": "select/01_人生,起起落落落落落_Firdhaus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パッパレ☆人生！バーン万歳！",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/02_パッパレ☆人生!バーン万歳!_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人生，起起落落落落落？",
+      "artist": "菲道尔",
+      "has_synced": true,
+      "path": "select/03_人生,起起落落落落落_菲道尔.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人生, 嘿!",
+      "artist": "黃小琥",
+      "has_synced": true,
+      "path": "select/04_人生,_嘿!_黃小琥.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人生 (FIRE NEXT Live)",
+      "artist": "Fire Ex.",
+      "has_synced": true,
+      "path": "select/05_人生_(FIRE_NEXT_Live)_Fire_Ex..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Back To 人生",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/06_Get_Back_To_人生_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Back To 人生",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/07_Get_Back_To_人生_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Back To 人生",
+      "artist": "OfficialHigeDandism",
+      "has_synced": true,
+      "path": "select/08_Get_Back_To_人生_OfficialHigeDandism.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "人生（たび）の空から",
+      "artist": "松山千春",
+      "has_synced": true,
+      "path": "select/09_人生(たび)の空から_松山千春.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パッパレ☆人生！バーン万歳！",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/10_パッパレ☆人生!バーン万歳!_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This is 人生",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/11_This_is_人生_川崎鷹也.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "人生 (feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)",
+      "artist": "アンメルツP",
+      "has_synced": false,
+      "path": "select/12_人生_(feat._初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)_アンメルツP.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "人生",
+      "artist": "KREVA",
+      "has_synced": false,
+      "path": "select/13_人生_KREVA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "人生",
+      "artist": "Fire EX.",
+      "has_synced": true,
+      "path": "select/14_人生_Fire_EX..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "人生",
+      "artist": "アンメルツP feat. 初音ミク&鏡音レン&鏡音リン&巡音ルカ&MEIKO&KAITO",
+      "has_synced": false,
+      "path": "select/15_人生_アンメルツP_feat._初音ミク&鏡音レン&鏡音リン&巡音ルカ&MEIKO&KAITO.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "人生",
+      "artist": "陈一郎",
+      "has_synced": true,
+      "path": "select/16_人生_陈一郎.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Get Back To 人生 - Get Back To Jinsei",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/17_Get_Back_To_人生_-_Get_Back_To_Jinsei_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生 (feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)",
+      "artist": "アンメルツP",
+      "has_synced": false,
+      "path": "select/pl_01_人生_(feat._初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)_アンメルツP.txt"
+    }
+  ]
+}
